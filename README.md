@@ -1,29 +1,21 @@
-# GYM-LANDING-PAGE
-# Non-Responsive Gym Landing Page
+# 🍽️ Food Delivery Website
 
-This repository contains a non-responsive gym landing page built using HTML and CSS. It serves as a learning project for exploring the fundamentals of web development and styling. While currently not responsive, the page showcases a basic layout and design for a gym website.
+Welcome to our food delivery website! This site is a feast for the eyes, designed using pure HTML and CSS. 
 
-## Highlights
+## 🚀 Features
 
-* Hands-on experience with HTML and CSS
-* Foundation for gym website design
-* Basic landing page structure
+- Vibrant and user-friendly interface
+- Easy navigation
+- Wide variety of cuisines to choose from
 
-## Goals
+## 🛠️ Built With
 
-* Gain practical experience with HTML and CSS
-* Understand the principles of web page layout
-* Create a basic gym landing page
-* Explore responsive design techniques (future enhancement)
+- HTML
+- CSS
 
-## Target Audience
+## 📝 To-Do
 
-* Beginners learning web development
-* Individuals interested in gym website design
-* Hobbyists seeking to build a basic landing page
+- Make the website responsive for optimal viewing on all devices
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
-
+Stay tuned for more updates!
 
